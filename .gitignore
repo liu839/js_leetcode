@@ -1,3 +1,4 @@
 .vscode/
 ${tmpdir}/
 index.html
+test.js
