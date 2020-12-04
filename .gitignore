@@ -1,1 +1,3 @@
 .vscode/
+${tmpdir}/
+index.html
